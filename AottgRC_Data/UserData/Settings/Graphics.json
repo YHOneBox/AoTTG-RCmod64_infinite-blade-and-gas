@@ -1,0 +1,17 @@
+{
+    "OverallQuality" : 0,
+    "TextureQuality" : 3,
+    "VSync" : false,
+    "FPSCap" : 0,
+    "ExclusiveFullscreen" : false,
+    "ShowFPS" : false,
+    "MipmapEnabled" : true,
+    "WeaponTrailEnabled" : true,
+    "WindEffectEnabled" : false,
+    "InterpolationEnabled" : true,
+    "RenderDistance" : 1500,
+    "WeatherEffects" : 3,
+    "AnimatedIntro" : true,
+    "BlurEnabled" : false,
+    "AntiAliasing" : 0
+}
